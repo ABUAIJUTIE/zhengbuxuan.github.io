@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>我是步轩同学的分身</title>
+  <subtitle>没有小标题</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhengbuxuan.github.io/"/>
@@ -9,7 +9,7 @@
   <id>https://zhengbuxuan.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>步轩同学</name>
     
   </author>
   
